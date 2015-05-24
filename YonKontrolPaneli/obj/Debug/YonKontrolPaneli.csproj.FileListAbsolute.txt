@@ -1,0 +1,9 @@
+C:\Users\talha\Google Drive\C# Dosyaları\YonKontrolPaneli\YonKontrolPaneli\bin\Debug\YonKontrolPaneli.exe.config
+C:\Users\talha\Google Drive\C# Dosyaları\YonKontrolPaneli\YonKontrolPaneli\bin\Debug\YonKontrolPaneli.exe
+C:\Users\talha\Google Drive\C# Dosyaları\YonKontrolPaneli\YonKontrolPaneli\bin\Debug\YonKontrolPaneli.pdb
+C:\Users\talha\Google Drive\C# Dosyaları\YonKontrolPaneli\YonKontrolPaneli\obj\Debug\YonKontrolPaneli.csprojResolveAssemblyReference.cache
+C:\Users\talha\Google Drive\C# Dosyaları\YonKontrolPaneli\YonKontrolPaneli\obj\Debug\YonKontrolPaneli.AnaForm.resources
+C:\Users\talha\Google Drive\C# Dosyaları\YonKontrolPaneli\YonKontrolPaneli\obj\Debug\YonKontrolPaneli.Properties.Resources.resources
+C:\Users\talha\Google Drive\C# Dosyaları\YonKontrolPaneli\YonKontrolPaneli\obj\Debug\YonKontrolPaneli.csproj.GenerateResource.Cache
+C:\Users\talha\Google Drive\C# Dosyaları\YonKontrolPaneli\YonKontrolPaneli\obj\Debug\YonKontrolPaneli.exe
+C:\Users\talha\Google Drive\C# Dosyaları\YonKontrolPaneli\YonKontrolPaneli\obj\Debug\YonKontrolPaneli.pdb
